@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83ebacc1-3e70-49ae-9d7a-f70a49201ce5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hw1/.ipynb_checkpoints/hw-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/.ipynb_checkpoints/hw-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw1/hw.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/hw.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw2/2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hw.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hw.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw5/hw5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw5/hw5.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,14 +28,10 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hw2/2.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/hw5/hw5.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
     </leaf>
@@ -50,17 +47,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="356" />
+    <option name="x" value="52" />
     <option name="y" value="32" />
-    <option name="width" value="1392" />
-    <option name="height" value="786" />
+    <option name="width" value="934" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,16 +69,25 @@
               <item name="hw" type="462c0819:PsiDirectoryNode" />
               <item name="hw2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw" type="462c0819:PsiDirectoryNode" />
+              <item name="hw5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,24 +136,23 @@
       <option name="presentableId" value="Default" />
       <updated>1551191759156</updated>
       <workItem from="1551191761228" duration="183000" />
+      <workItem from="1555090897942" duration="9100000" />
+      <workItem from="1555100970601" duration="3440000" />
+      <workItem from="1555143576072" duration="4798000" />
+      <workItem from="1555152413625" duration="2419000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183000" />
+    <option name="totallyTimeSpent" value="19940000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="32" width="1856" height="1048" extended-state="6" />
+    <frame x="52" y="32" width="1868" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16207276" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1637459" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3293348" />
-      <window_info anchor="bottom" id="Python Console" weight="0.26717559" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3293348" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -156,12 +160,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" x="0" y="0" width="414" height="848" id="Documentation" sideWeight="0.5014881" side_tool="true" visible="true" weight="0.3296582" />
-      <window_info anchor="right" id="SciView" sideWeight="0.4985119" weight="0.3296582" />
-      <window_info anchor="right" id="Database" sideWeight="0.4985119" weight="0.3296582" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3293348" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.23118865" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.26717559" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.3293348" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4985119" weight="0.3296582" />
+      <window_info anchor="right" x="0" y="0" width="414" height="848" id="Documentation" order="4" sideWeight="0.5014881" side_tool="true" visible="true" weight="0.3296582" />
+      <window_info anchor="right" id="Database" order="5" sideWeight="0.4985119" weight="0.3296582" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,11 +180,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hw2/2.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw5/hw5.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
 </project>
