@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83ebacc1-3e70-49ae-9d7a-f70a49201ce5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw6/.ipynb_checkpoints/hw6-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw6/.ipynb_checkpoints/hw6-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw6/hw6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw6/hw6.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,8 +52,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="52" />
-    <option name="y" value="32" />
-    <option name="width" value="934" />
+    <option name="y" value="1112" />
+    <option name="width" value="1868" />
     <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
@@ -65,7 +66,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JupyterPython" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project/sem-project" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -122,14 +123,15 @@
       <workItem from="1555143576072" duration="4798000" />
       <workItem from="1555152413625" duration="3548000" />
       <workItem from="1555181978166" duration="1679000" />
+      <workItem from="1555695637530" duration="160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22748000" />
+    <option name="totallyTimeSpent" value="22908000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="32" width="1868" height="1048" extended-state="6" />
+    <frame x="52" y="1112" width="1868" height="1048" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.1637459" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -146,12 +148,12 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.23118865" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.26717559" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.2693566" />
       <window_info active="true" anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.3293348" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4985119" visible="true" weight="0.32913473" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.4985119" visible="true" weight="0.15881708" />
       <window_info anchor="right" x="0" y="0" width="414" height="848" id="Documentation" order="4" sideWeight="0.5014881" side_tool="true" visible="true" weight="0.3296582" />
       <window_info anchor="right" id="Database" order="5" sideWeight="0.4985119" weight="0.3296582" />
     </layout>
